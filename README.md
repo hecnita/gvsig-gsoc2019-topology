@@ -11,4 +11,6 @@ To understand the importance of topology in GIS, it is necessary to know that sp
 
 ![Texto alternativo](https://github.com/hecnita/gvsig-gsoc2019-topology/blob/master/logos/logo-osgeo.svg)
 
-!(https://github.com/hecnita/gvsig-gsoc2019-topology/blob/master/logos/gvSIG_asociacion.png.jpg)
+![Texto alternativo](https://github.com/hecnita/gvsig-gsoc2019-topology/blob/master/logos/summer-of-code-logo.svg)
+
+![Texto alternativo](https://github.com/hecnita/gvsig-gsoc2019-topology/blob/master/logos/gvSIG_asociacion.png.jpg)
