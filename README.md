@@ -9,4 +9,4 @@ gvSIG desktop is the main application of the association gvSIG (http://www.gvsig
 To understand the importance of topology in GIS, it is necessary to know that spatial information is represented in them through different types of vectorial data, among others. Basically, it is data with punctual, linear and polygonal typology. Integrating all this spatial information, which is a function of GIS, involves establishing spatial relationships between different geometrical elements and it is in this context that the geospatial topology acquires great importance. The topological rules, based on mathematical geometry, are implemented to model these relationships.
 
 
-![file:///C:/Users/hecto/OneDrive/Escritorio/logo-osgeo.svg]
+![https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_dark_color_74x24dp.png]
