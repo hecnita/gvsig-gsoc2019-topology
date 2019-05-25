@@ -15,8 +15,9 @@ To understand the importance of topology in GIS, it is necessary to know that sp
   
 </p>
 
+<br>
 
-You can see more information and the development of the project through the following [wiki](https://github.com/hecnita/gvsig-gsoc2019-topology/wiki/Creation-of-new-topological-rules-in-gvSIG-desktop)
+You can see more information and the development of the project through the following [wiki](https://github.com/hecnita/gvsig-gsoc2019-topology/wiki/Creation-of-new-topological-rules-in-gvSIG-desktop).
 
 
 <br><br><br><br><br><br><br><br>
