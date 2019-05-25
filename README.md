@@ -15,4 +15,4 @@ To understand the importance of topology in GIS, it is necessary to know that sp
 
 ![Texto alternativo](http://www.gvsig.com/documents/10184/13596/gvSIG_asociacion.png/366d3e49-97af-45c4-a8b6-8a7da550db4f?t=1400586861221 =20x20)
 
-<img src="http://www.gvsig.com/documents/10184/13596/gvSIG_asociacion.png/366d3e49-97af-45c4-a8b6-8a7da550db4f?t=1400586861221" width="20" height="200" />
+<img src="http://www.gvsig.com/documents/10184/13596/gvSIG_asociacion.png/366d3e49-97af-45c4-a8b6-8a7da550db4f?t=1400586861221" width="200" height="200" />
