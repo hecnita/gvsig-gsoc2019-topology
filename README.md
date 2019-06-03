@@ -11,7 +11,7 @@ To understand the importance of topology in GIS, it is necessary to know that sp
 <br>
 <p align="center" >
   <img src="https://github.com/hecnita/gvsig-gsoc2019-topology/blob/master/logos/errores.png" width="200" height="200" name="errors" />
-  <p align="center" >The rule "Must be disjoint" detects possible errors</p>
+  <p align="center" >The rule "Must Not Have Dangles" detects possible errors</p>
   
 </p>
 
